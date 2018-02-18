@@ -5,9 +5,7 @@
 */
 
 #include <RTCZero.h>
-//#include "GemaltoModem.h"
 #include "uBloxModem.h"
-//#include "SimcomModem.h"
 #include <Wire.h>
 #include <math.h>
 #include <Sodaq_HTS221.h>
